@@ -1,0 +1,19 @@
+nav{
+    color: black;
+    display: flex;
+    margin-left: 500px;
+  
+}
+a{
+    padding-left: 50px;
+}
+header{
+   
+    margin-top: 1px;
+}
+li{
+    display: inline;
+}
+#dd{
+    margin-top: 11px;
+    }
